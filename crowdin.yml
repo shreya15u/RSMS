@@ -1,0 +1,12 @@
+project_id_env: "902809"
+api_token_env: "784817c3b91efd06a4afd02fb12e965d5ed1f2ef0dc8c02a6030af4124ed49dea17cda23dca9f3bd"
+base_path: "."
+base_url: "https://api.crowdin.com"
+
+# Preserve hierarchy
+preserve_hierarchy: true
+
+files:
+  - source: /luxury/Localizable.xcstrings
+    translation: /luxury/Localizable.xcstrings
+    multilingual: true
